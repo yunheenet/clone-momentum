@@ -15,3 +15,4 @@
 ### Resources
 * https://unsplash.com/ - Free Images.
 * https://flatuicolors.com/ - Flat UI Colors.
+* https://openweathermap.org/api/ - Weather Open API.
