@@ -11,3 +11,7 @@
 ### Languages
 * HTML / CSS
 * Vallia JS
+
+### Resources
+* https://unsplash.com/ - Free Images.
+* https://flatuicolors.com/ - Flat UI Colors.
